@@ -1,2 +1,3 @@
 # Clustering_OlivettiFaces
  
+An ML Notebook containing a clustering exercise on the Olivetti Faces. It exemplifies a form of Unsupervised Learning which contains an overview of the steps of finding clusters in a dataset. It shows how we can use clustering not only for training and predicting clusters but also for preprocessing, dimensionality reduction and anamoly detection. The algorithms used in this notebook are primarily K-Means Clustering and Gaussian Mixture Model.
